@@ -12,10 +12,15 @@ A lightweight Laravel package that provides a **custom validation rule** to prev
 - Dangerous input patterns like `javascript:` or `<img onerror=...>`
 
 ✅ Works with Laravel’s built-in `Validator` and FormRequest  
-✅ Tested with PHPUnit 12 + Laravel 12  
 ✅ Plug-and-play: no config required  
 
 ---
+
+## Minimum Requirements
+
+- PHP >= 8.1
+- Laravel 10.x
+- Composer
 
 ## 🧩 Installation
 
