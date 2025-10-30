@@ -1,8 +1,16 @@
 {
   "name": "nayikidev/laravel-validate-xss",
   "description": "Laravel validation rule to prevent JavaScript or dangerous HTML tags.",
-  "type": "library",
+  "keywords": ["laravel", "xss", "validation", "security", "sanitize"],
+  "homepage": "https://github.com/nayikidev/laravel-validate-xss",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "Nayiki Dev",
+      "email": "youremail@example.com"
+    }
+  ],
+  "type": "library",
   "autoload": {
       "psr-4": {
           "NayikiDev\\LaravelValidateXss\\": "src/"
@@ -13,7 +21,7 @@
       "illuminate/support": "^10.0|^11.0|^12.0"
   },
   "require-dev": {
-        "phpunit/phpunit": "^11.0 || ^12.0",
+        "phpunit/phpunit": "^11.0|^12.0",
         "orchestra/testbench": "^10.0"
   },
   "extra": {
