@@ -23,3 +23,6 @@ A lightweight Laravel package that provides a **custom validation rule** to prev
 
 ```bash
 composer require nayikidev/laravel-validate-xss
+```
+### Using the Validation Rule
+`'field' => ['xss_protection']`

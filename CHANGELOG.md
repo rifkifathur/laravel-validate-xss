@@ -19,10 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - PHP 8.2+
   - Laravel 10, 11, and 12
 
----
+## [1.0.1] - 2025-10-27
+### 🎉 1.0.1 Release
+- Update readme
 
-## [Unreleased]
-### 🚀 Upcoming
-- Add configuration file for customizable forbidden tags/attributes.
-- Add Blade directive helper for sanitization.
-- Add integration tests for `Validator::make()` usage.
+---
